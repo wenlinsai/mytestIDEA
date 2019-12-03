@@ -8,5 +8,6 @@ public class test {
 
     public void test(){
         Integer i = 10;
+        Integer i2 = 12;
     }
 }
